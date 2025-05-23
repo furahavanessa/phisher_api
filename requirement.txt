@@ -12,3 +12,4 @@ tldextract
 requests
 scikit-learn
 joblib
+gunicorn
