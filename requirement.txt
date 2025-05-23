@@ -1,0 +1,14 @@
+streamlit
+pandas
+scikit-learn
+joblib
+numpy
+scipy
+flask
+flask-cors
+pandas
+numpy
+tldextract
+requests
+scikit-learn
+joblib
